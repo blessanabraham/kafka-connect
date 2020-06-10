@@ -1,0 +1,13 @@
+[package]
+name = "kafka-connect-elasticsearch"
+description = "Kafka connector for Elasticsearch"
+version = "0.0.0"
+authors = ["Blessan Abraham <blesson2k@gmail.com>"]
+repository = "https://github.com/blessanabraham/kafka-connect"
+edition = "2018"
+keywords = ["kafka", "elasticsearch"]
+categories = ["api-bindings"]
+license = "MIT"
+publish = true
+
+[dependencies]

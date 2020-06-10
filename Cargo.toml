@@ -1,0 +1,12 @@
+[workspace]
+members = [
+    "connect",
+    "connectors/cassandra",
+    "connectors/dynamodb",
+    "connectors/elasticsearch",
+    "connectors/file",
+    "connectors/http",
+    "connectors/mysql",
+    "connectors/postgres",
+    "connectors/s3",
+]

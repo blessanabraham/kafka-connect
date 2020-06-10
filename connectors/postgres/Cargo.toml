@@ -1,0 +1,13 @@
+[package]
+name = "kafka-connect-postgres"
+version = "0.0.0"
+description = "Kafka connector for PostgresSQL"
+authors = ["Blessan Abraham <blesson2k@gmail.com>"]
+repository = "https://github.com/blessanabraham/kafka-connect"
+edition = "2018"
+license = "MIT"
+keywords = ["kafka", "postgressql"]
+categories = ["api-bindings"]
+publish = true
+
+[dependencies]
